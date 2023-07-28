@@ -1,0 +1,29 @@
+{
+  "BarChart": {
+    "description": "Auto imported from components/BarChart.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "LineChart": {
+    "description": "Auto imported from components/LineChart.vue"
+  },
+  "LineChartWeekly": {
+    "description": "Auto imported from components/LineChartWeekly.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "TagInput": {
+    "description": "Auto imported from components/TagInput.vue"
+  },
+  "VerticalTagInput": {
+    "description": "Auto imported from components/verticalTagInput.vue"
+  }
+}

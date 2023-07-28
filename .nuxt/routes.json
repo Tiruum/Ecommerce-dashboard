@@ -1,0 +1,51 @@
+[
+  {
+    "name": "addproduct",
+    "path": "/addproduct",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\addproduct.vue",
+    "chunkName": "pages/addproduct",
+    "_name": "_ddbe9d3a"
+  },
+  {
+    "name": "kanban",
+    "path": "/kanban",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\kanban.vue",
+    "chunkName": "pages/kanban",
+    "_name": "_be188528"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5cf94278"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_1056abcc"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "_name": "_af5f244e"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\users.vue",
+    "chunkName": "pages/users",
+    "_name": "_4d4595e3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Timur\\\\Desktop\\\\webshop\\\\admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_07dbbbad"
+  }
+]
