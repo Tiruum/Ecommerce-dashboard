@@ -1,0 +1,37 @@
+[
+{
+    "datetime": "09.07.2022, 01:45:36",
+    "customerName": "Тимур Селин",
+    "product": "Сайт интернет-магазина",
+    "price": 8000,
+    "status": "Оплачено"
+},
+{
+    "datetime": "08.07.2022, 13:57:35",
+    "customerName": "Тимур Селин",
+    "product": "Сайт интернет-магазина",
+    "price": 10000,
+    "status": "Оплачено"
+},
+{
+    "datetime": "07.07.2022, 14:57:35",
+    "customerName": "Billy Herrington",
+    "product": "Cowboy pants",
+    "price": 10000,
+    "status": "Оплачено"
+},
+{
+    "datetime": "06.06.2022, 13:57:35",
+    "customerName": "Van Darkholme",
+    "product": "Latex costume",
+    "price": 10000,
+    "status": "В ожидании"
+},
+{
+    "datetime": "04.06.2022, 13:57:35",
+    "customerName": "Mark Wolf",
+    "product": "Shirt",
+    "price": 10000,
+    "status": "Не оплачено"
+}
+]
